@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas_Days5</string>
+    <string name="namapelangganmain">Kundenname</string>
+    <string name="pelangganmain">Kundentyp</string>
+    <string name="input">" "</string>
+    <string name="tipePelangganGold">Gold</string>
+    <string name="tipePelangganSilver">Silber</string>
+    <string name="tipePelangganBiasa">normal</string>
+    <string name="KodeBarang">Produktcode</string>
+    <string name="JumlahBarang">die Menge der Ware</string>
+    <string name="pesan">Nachricht</string>
+    <string name="selamatDatang">WILLKOMMEN</string>
+    <string name="Transaksi">Transaktion</string>
+    <string name="kodebaragStruk">Produktcode      :</string>
+    <string name="namabaragStruk">Waren :</string>
+    <string name="namabaragStruk2">Waren</string>
+    <string name="HargabarangStruk">Preis  : Rp.</string>
+    <string name="JumlahBArang">die Menge der Ware:</string>
+    <string name="TotalHArga">Gesamt  :Rp.</string>
+    <string name="Discount">Reduzierter Preis :</string>
+    <string name="DiscountMember">Rabatt für Mitglieder :</string>
+    <string name="TotalBayar">Gesamtlohn :</string>
+    <string name="Terimakasih">Danke</string>
+    <string name="Kirim">Schicken</string>
+</resources>

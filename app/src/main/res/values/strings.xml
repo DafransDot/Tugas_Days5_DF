@@ -1,0 +1,28 @@
+<resources >
+
+    <string name="app_name">Tugas_Days5</string>
+    <string name="namapelangganmain">Nama Pelanggan</string>
+    <string name="pelangganmain">Tipe Pelanggan    </string>
+    <string name="input">" "</string>
+    <string name="tipePelangganGold">Gold</string>
+    <string name="tipePelangganSilver">Silver</string>
+    <string name="tipePelangganBiasa">Biasa</string>
+    <string name="KodeBarang">Kode Barang</string>
+    <string name="JumlahBarang">Jumlah Barang</string>
+    <string name="pesan">Pesan</string>
+    <string name="selamatDatang">Selamat Datang    .</string>
+    <string name="Transaksi">Transaksi</string>
+    <string name="kodebaragStruk">Kode Barang           : </string>
+    <string name="namabaragStruk">Nama Barang         : </string>
+    <string name="namabaragStruk2">Nama Barang</string>
+    <string name="HargabarangStruk">Harga Barang         : Rp. </string>
+    <string name="JumlahBArang">Jumlah Barang       : </string>
+    <string name="TotalHArga">Total Harga             : Rp. </string>
+    <string name="Discount">Discount Harga      : Rp. </string>
+    <string name="DiscountMember">Discount Member  : Rp. </string>
+    <string name="TotalBayar">Total Bayar              : Rp. </string>
+    <string name="Terimakasih">Terima Kasih</string>
+    <string name="Kirim">Kirim</string>
+
+
+</resources>
